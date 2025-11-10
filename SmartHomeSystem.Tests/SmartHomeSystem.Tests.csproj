@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DeliverySystem\DeliverySystem.csproj" />
+    <ProjectReference Include="..\SmartHomeSystem\SmartHomeSystem.csproj" />
   </ItemGroup>
 
   <ItemGroup>

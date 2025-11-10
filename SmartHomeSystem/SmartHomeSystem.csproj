@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\Asus\OneDrive\Рабочий стол\Lab4.cs" Link="Lab4.cs" />
+  </ItemGroup>
+
 </Project>
