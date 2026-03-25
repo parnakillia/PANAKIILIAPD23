@@ -1,0 +1,16 @@
+C:\Users\stud\source\repos\PD23_Task1\PD23_Task1\bin\Debug\net5.0\PD23_Task1.exe
+C:\Users\stud\source\repos\PD23_Task1\PD23_Task1\bin\Debug\net5.0\PD23_Task1.deps.json
+C:\Users\stud\source\repos\PD23_Task1\PD23_Task1\bin\Debug\net5.0\PD23_Task1.runtimeconfig.json
+C:\Users\stud\source\repos\PD23_Task1\PD23_Task1\bin\Debug\net5.0\PD23_Task1.runtimeconfig.dev.json
+C:\Users\stud\source\repos\PD23_Task1\PD23_Task1\bin\Debug\net5.0\PD23_Task1.dll
+C:\Users\stud\source\repos\PD23_Task1\PD23_Task1\bin\Debug\net5.0\ref\PD23_Task1.dll
+C:\Users\stud\source\repos\PD23_Task1\PD23_Task1\bin\Debug\net5.0\PD23_Task1.pdb
+C:\Users\stud\source\repos\PD23_Task1\PD23_Task1\obj\Debug\net5.0\PD23_Task1.csproj.AssemblyReference.cache
+C:\Users\stud\source\repos\PD23_Task1\PD23_Task1\obj\Debug\net5.0\PD23_Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\source\repos\PD23_Task1\PD23_Task1\obj\Debug\net5.0\PD23_Task1.AssemblyInfoInputs.cache
+C:\Users\stud\source\repos\PD23_Task1\PD23_Task1\obj\Debug\net5.0\PD23_Task1.AssemblyInfo.cs
+C:\Users\stud\source\repos\PD23_Task1\PD23_Task1\obj\Debug\net5.0\PD23_Task1.csproj.CoreCompileInputs.cache
+C:\Users\stud\source\repos\PD23_Task1\PD23_Task1\obj\Debug\net5.0\PD23_Task1.dll
+C:\Users\stud\source\repos\PD23_Task1\PD23_Task1\obj\Debug\net5.0\ref\PD23_Task1.dll
+C:\Users\stud\source\repos\PD23_Task1\PD23_Task1\obj\Debug\net5.0\PD23_Task1.pdb
+C:\Users\stud\source\repos\PD23_Task1\PD23_Task1\obj\Debug\net5.0\PD23_Task1.genruntimeconfig.cache
